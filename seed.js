@@ -10,31 +10,31 @@ const bcrypt = require("bcryptjs");
 const { pool, initSchema } = require("./db");
 
 const MANAGER = {
-  username: "manager",
-  password: "CHANGE_ME_manager",
+  username: "rayait",
+  password: "raya@@@@",
 };
 
 const TECHS = [
   {
-    username: "buildingA",
-    password: "CHANGE_ME_A",
-    building_name: "Building A",
+    username: "9090",
+    password: "9090",
+    building_name: "90 Building",
     building_lat: 30.000000, // <-- replace
     building_lng: 31.000000, // <-- replace
     radius_meters: 400,
   },
   {
-    username: "buildingB",
-    password: "CHANGE_ME_B",
-    building_name: "Building B",
+    username: "7070",
+    password: "7070",
+    building_name: "70 Building",
     building_lat: 30.010000, // <-- replace
     building_lng: 31.010000, // <-- replace
     radius_meters: 400,
   },
   {
-    username: "buildingC",
-    password: "CHANGE_ME_C",
-    building_name: "Building C",
+    username: "7878",
+    password: "7878",
+    building_name: "7 Maadi",
     building_lat: 30.020000, // <-- replace
     building_lng: 31.020000, // <-- replace
     radius_meters: 400,
