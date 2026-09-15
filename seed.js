@@ -19,8 +19,8 @@ const TECHS = [
     username: "9090",
     password: "9090",
     building_name: "90 Building",
-    building_lat: 30.000000, // <-- replace
-    building_lng: 31.000000, // <-- replace
+    building_lat: 30.054261, // <-- replace
+    building_lng: 31.397112, // <-- replace
     radius_meters: 400,
   },
   {
